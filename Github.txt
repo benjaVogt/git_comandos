@@ -1,0 +1,12 @@
+git init // inicializa git
+
+git add <File> // Agrega un archivo a git para despues hacer commit
+
+git add . // Lo mismo, pero agrega todos los cambios, incluyendo archivos borrados
+
+git status // Te da el status del repo
+
+git commit // Crea una version histórica
+
+git push // Sube todo a la nube
+
