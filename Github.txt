@@ -7,6 +7,9 @@ git add . // Lo mismo, pero agrega todos los cambios, incluyendo archivos borrad
 git status // Te da el status del repo
 
 git commit // Crea una version histórica
+La letra -m en git commit -m sirve para agregar un mensaje directamente desde la línea de comandos sin abrir un editor de texto
+
+
 
 git push // Sube todo a la nube
 
